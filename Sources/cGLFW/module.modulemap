@@ -1,0 +1,5 @@
+module cGLFW
+{
+    umbrella header "GLFW.h"
+    link "glfw"
+}
